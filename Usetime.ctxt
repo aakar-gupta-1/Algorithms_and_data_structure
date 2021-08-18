@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Usetime
+comment1.params=
+comment1.target=void\ accept()
+comment2.params=t
+comment2.target=long\ sum(time)
+comment3.params=t
+comment3.target=long\ su(time)
+comment4.params=
+comment4.target=time\ calculate()
+comment5.params=t
+comment5.target=void\ print(time)
+comment6.params=
+comment6.target=void\ main()
+numComments=7

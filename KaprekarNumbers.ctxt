@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=KaprekarNumbers
+comment1.params=n
+comment1.target=boolean\ isKaprekar(int)
+numComments=2

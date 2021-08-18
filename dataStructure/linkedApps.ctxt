@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=linkedApps
+comment1.params=
+comment1.target=linkedApps()
+comment10.params=
+comment10.target=void\ print()
+comment11.params=a
+comment11.target=void\ printRec(node)
+comment2.params=a
+comment2.target=void\ insert(int)
+comment3.params=
+comment3.target=void\ sort()
+comment4.params=
+comment4.target=void\ reverse()
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment6.params=a
+comment6.target=void\ addRear(int)
+comment7.params=a
+comment7.target=void\ addFront(int)
+comment8.params=
+comment8.target=void\ deleteFront()
+comment9.params=
+comment9.target=void\ deleteRear()
+numComments=12

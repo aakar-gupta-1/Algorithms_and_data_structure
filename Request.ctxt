@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Request
+comment1.params=arrival_time\ process_time
+comment1.target=Request(int,\ int)
+numComments=2

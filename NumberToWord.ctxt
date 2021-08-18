@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=NumberToWord
+comment1.params=number
+comment1.target=java.lang.String\ convertLessThanOneThousand(int)
+comment2.params=number
+comment2.target=java.lang.String\ convert(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

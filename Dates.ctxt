@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Dates
+comment1.params=
+comment1.target=Dates()
+comment2.params=a\ b\ c
+comment2.target=Dates(int,\ int,\ int)
+comment3.params=
+comment3.target=void\ accept()
+comment4.params=
+comment4.target=void\ print()
+comment5.params=z
+comment5.target=boolean\ isEqual(Dates)
+numComments=6

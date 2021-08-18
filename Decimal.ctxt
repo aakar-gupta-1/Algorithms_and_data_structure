@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Decimal
+comment1.params=
+comment1.target=void\ ToHex()
+comment2.params=
+comment2.target=void\ ToOct()
+comment3.params=
+comment3.target=void\ ToBin()
+numComments=4

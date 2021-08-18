@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=dlStack
+comment1.params=
+comment1.target=dlStack()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=a
+comment3.target=void\ push(int)
+comment4.params=
+comment4.target=void\ pop()
+comment5.params=
+comment5.target=void\ print()
+numComments=6

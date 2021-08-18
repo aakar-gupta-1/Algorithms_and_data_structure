@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=dlQueue
+comment1.params=
+comment1.target=dlQueue()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=a
+comment3.target=void\ addRear(int)
+comment4.params=a
+comment4.target=void\ addFront(int)
+comment5.params=
+comment5.target=void\ deleteFront()
+comment6.params=
+comment6.target=void\ deleteRear()
+comment7.params=
+comment7.target=void\ print()
+numComments=8

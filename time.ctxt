@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=time
+comment1.params=
+comment1.target=time()
+comment2.params=a\ b\ c\ d\ e\ f
+comment2.target=time(long,\ long,\ long,\ long,\ long,\ long)
+numComments=3

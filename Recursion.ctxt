@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Recursion
+comment1.params=n
+comment1.target=void\ fibo(int)
+comment10.params=n\ sum
+comment10.target=int\ SOD(int,\ int)
+comment2.params=a\ b\ n
+comment2.target=int\ fibo2(int,\ int,\ int)
+comment3.params=n
+comment3.target=int\ fibo3(int)
+comment4.params=n
+comment4.target=void\ acceptarr(int)
+comment5.params=arr\ n\ p
+comment5.target=int\ linearsearch(int[],\ int,\ int)
+comment6.params=arr\ n\ max\ min
+comment6.target=int\ binary(int[],\ int,\ int,\ int)
+comment7.params=l\ a\ b
+comment7.target=int\ LCM(int,\ int,\ int)
+comment8.params=h\ a\ b
+comment8.target=int\ HCF(int,\ int,\ int)
+comment9.params=arr\ s\ i
+comment9.target=int\ SOE(int[],\ int,\ int)
+numComments=11
